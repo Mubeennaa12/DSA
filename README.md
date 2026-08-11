@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0585-investments-in-2016) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
 ## Array
 |  |
 | ------- |
