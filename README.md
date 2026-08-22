@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 ## Math
 |  |
 | ------- |
