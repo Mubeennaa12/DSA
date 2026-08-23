@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0134-gas-station) |
 | [0643-maximum-average-subarray-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
