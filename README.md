@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
