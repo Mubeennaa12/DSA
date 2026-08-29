@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0202-happy-number) |
 ## Recursion
