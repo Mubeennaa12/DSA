@@ -85,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Sliding Window
 |  |
 | ------- |
