@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0202-happy-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
