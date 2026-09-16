@@ -6,12 +6,13 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root):
+        low=float("-inf")
+        high=float("inf")
         def check(node,low,high):
             if not node:
                 return True
-            if node.val<=low or node.val>=high:
+            if node.val <=low or node.val>= high:
                 return False
-            return check(node.left, low, node.val) and \
+            return check(node.left,low,node.val) and \
                    check(node.right, node.val, high)
-        return check(root, float("-inf"), float("inf"))
-        
+        return check(root,low,high)
