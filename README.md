@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -253,5 +254,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
