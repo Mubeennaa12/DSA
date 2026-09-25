@@ -188,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
