@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -257,5 +258,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
