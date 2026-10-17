@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -333,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
