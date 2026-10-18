@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
