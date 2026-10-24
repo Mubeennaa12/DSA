@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
