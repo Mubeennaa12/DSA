@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0705-design-hashset](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Tree
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0705-design-hashset) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Iterator
 |  |
 | ------- |
@@ -358,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
