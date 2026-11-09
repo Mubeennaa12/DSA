@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
