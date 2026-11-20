@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0735-asteroid-collision](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
 | ------- |
@@ -392,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Mubeennaa12/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
